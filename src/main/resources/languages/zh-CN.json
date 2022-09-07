@@ -208,7 +208,8 @@
     },
     "position": {
       "success": "坐标：%s, %s, %s\n旋转：%s, %s, %s\n场景ID：%s",
-      "description": "获取所在位置和旋转信息"},
+      "description": "获取所在位置和旋转信息"
+    },
     "quest": {
       "added": "已添加任务 %s。",
       "finished": "已完成任务 %s。",
